@@ -1,0 +1,30 @@
+[h1]Art Bench Support for Anima Bionics[/h1]
+
+[h2]Features[/h2]
+
+This mod patches the Anima Bionics mod to allow all recipes to also be crafted at the Art Bench.
+
+[list]
+    [*]Pawns can craft Anima bionics at the Art Bench.
+    [*]No new buildings
+    [*]No ballance changes
+    [*]No new research
+[/list]
+
+[hr][/hr]
+
+[h2]Mod compatibility[/h2]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2879835262]Anima Bionics - Forked[/url] - duh this is addon/patch for that mod.
+
+[hr][/hr]
+
+[url=https://github.com/zwei2stein/ArtBenchForAnimaBionic-mod/]Source Code[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3651274426]My Other Mods[/url]
+
+[hr][/hr]
+
+[h2]Thanks[/h2]
+
+Many thanks to the RimWorld Modding Discord community for their help.

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Art Bench Support for Anima Bionics</name>
+    <author>zwei2stein</author>
+    <packageId>zwei2stein.ArtBenchForAnimaBionic</packageId>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modVersion>1.0</modVersion>
+    <description>Small patch for the Anima Bionics mod that adds the Art Bench as a crafting station for Anima bionics and implants (instead of only the crafting spot).</description>
+    <modDependencies>
+        <li>
+            <packageId>Seti.Victor.AnimaBodies</packageId>
+            <displayName>Anima Bionics - Forked</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2879835262</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Seti.Victor.AnimaBodies</li>
+    </loadAfter>
+</ModMetaData>
