@@ -1,12 +1,20 @@
-# Art Bench Support for Anima Bionics
+# Art Bench Support for Epoch Golems
 
 Steam workshop link: <https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3769234071>
 
 ## Quick about
 
+### Infographic
+
+[Infographics as separate page](/Publishing/info.svg)
+
+![](/Publishing/g28.png)
+
+### Steam mod page info
+
 [Steam blurb text is in this repo](/Publishing/steam.txt)
 
-![](/Publishing/basic_01.png))
+![](/Publishing/basic_01.png)
 
 ## License
 

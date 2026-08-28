@@ -1,25 +1,23 @@
-[h1]Art Bench Support for Anima Bionics[/h1]
+[h1]Art Bench Support for Epoch Golems[/h1]
 
 [h2]Features[/h2]
 
-This mod patches the Anima Bionics mod to allow all recipes to also be crafted at the Art Bench.
+This mod patches the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609646528]Epochs - Golems[/url] mod to allow crafting golems at the Art Bench
 
 [list]
-    [*]Pawns can craft Anima bionics at the Art Bench.
-    [*]No new buildings
-    [*]No ballance changes
-    [*]No new research
+    [*]Can craft Golems at the Art Bench.
+    [*]Golemancy board can be linked to Art Bench.
 [/list]
 
 [hr][/hr]
 
 [h2]Mod compatibility[/h2]
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2879835262]Anima Bionics - Forked[/url] - duh this is addon/patch for that mod.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3609646528]Epochs - Golems[/url] - duh this is addon/patch for that mod.
 
 [hr][/hr]
 
-[url=https://github.com/zwei2stein/ArtBenchForAnimaBionic-mod/]Source Code[/url]
+[url=https://github.com/zwei2stein/ArtBenchForEpochGolems-mod/]Source Code[/url]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3651274426]My Other Mods[/url]
 

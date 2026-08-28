@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <!-- enable crafting @ art bench -->
+  
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/RecipeDef/recipeUsers[li="DV_GolemancySpot"]</xpath>
+    <value>
+      <li>TableSculpting</li>
+    </value>
+  </Operation>
+  
+  <!-- link golemancy boards -->
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="TableSculpting"]/comps/li/linkableFacilities</xpath>
+    <value>
+      <li>DV_GolemancyChalkboard</li>
+    </value>
+  </Operation>
+  
+</Patch>

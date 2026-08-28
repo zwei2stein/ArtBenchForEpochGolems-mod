@@ -21,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.5883713"
-     inkscape:cx="443.85087"
-     inkscape:cy="228.22119"
+     inkscape:zoom="2.2462962"
+     inkscape:cx="549.12615"
+     inkscape:cy="244.6249"
      inkscape:window-width="2560"
      inkscape:window-height="1494"
      inkscape:window-x="-11"
@@ -58,7 +58,7 @@
        y1="179.35301"
        x2="12.775085"
        y2="776.17878"
-       gradientTransform="matrix(0.76500902,0,0,0.29449836,4.9763533,57.750991)"
+       gradientTransform="matrix(0.80234544,0,0,0.29449836,4.4871477,57.750991)"
        gradientUnits="userSpaceOnUse"><stop
          offset="0%"
          stop-color="#363b42"
@@ -116,9 +116,9 @@
      inkscape:export-ydpi="96"><rect
        x="15"
        y="110.79492"
-       width="456.07593"
+       width="478.33481"
        height="175.31468"
-       rx="3.0070939"
+       rx="3.1538558"
        fill="url(#table)"
        stroke="#5d636c"
        id="rect8"
@@ -129,10 +129,10 @@
          y="143.60938"
          class="title"
          fill="#1f1f1f"
-         id="text7">Art Bench for Anima Bionics</text><rect
-         x="30"
+         id="text7">Art Bench for Epoch - Golems</text><rect
+         x="30.000002"
          y="144"
-         width="423.92188"
+         width="444.31253"
          height="126"
          fill="#353a42"
          id="rect12"
@@ -146,7 +146,7 @@
            x="259"
            y="201.49219">Craft <tspan
    font-weight="700"
-   id="tspan17">Anima bionics</tspan></tspan><tspan
+   id="tspan17">Golems</tspan></tspan><tspan
            sodipodi:role="line"
            id="tspan27"
            x="259"

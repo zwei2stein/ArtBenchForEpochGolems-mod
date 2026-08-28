@@ -1,21 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>Art Bench Support for Anima Bionics</name>
+    <name>Art Bench Support for Epoch Golems</name>
     <author>zwei2stein</author>
-    <packageId>zwei2stein.ArtBenchForAnimaBionic</packageId>
+    <packageId>zwei2stein.ArtBenchForEpochGolems</packageId>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
-    <modVersion>1.0</modVersion>
-    <description>Small patch for the Anima Bionics mod that adds the Art Bench as a crafting station for Anima bionics and implants (instead of only the crafting spot).</description>
+    <modVersion>1.0.1</modVersion>
+    <description>Small patch for the Epoch Golems mod that adds the Art Bench as a crafting station for Golems (instead of crafting spot).</description>
     <modDependencies>
         <li>
-            <packageId>Seti.Victor.AnimaBodies</packageId>
-            <displayName>Anima Bionics - Forked</displayName>
-            <steamWorkshopUrl>steam://url/CommunityFilePage/2879835262</steamWorkshopUrl>
+            <packageId>det.epochsgolems</packageId>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/3609646528</steamWorkshopUrl>
         </li>
     </modDependencies>
     <loadAfter>
-        <li>Seti.Victor.AnimaBodies</li>
+        <li>det.epochsgolems</li>
     </loadAfter>
 </ModMetaData>
