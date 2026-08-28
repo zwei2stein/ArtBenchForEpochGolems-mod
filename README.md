@@ -1,6 +1,6 @@
 # Art Bench Support for Epoch Golems
 
-Steam workshop link: <https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3769234071>
+Steam workshop link: <https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3791709689>
 
 ## Quick about
 
