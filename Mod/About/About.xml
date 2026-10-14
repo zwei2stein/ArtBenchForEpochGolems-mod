@@ -5,11 +5,13 @@
     <packageId>zwei2stein.ArtBenchForEpochGolems</packageId>
     <supportedVersions>
         <li>1.6</li>
+        <li>1.7</li>
     </supportedVersions>
-    <modVersion>1.0</modVersion>
+    <modVersion>1.0.1</modVersion>
     <description>Small patch for the Epoch Golems mod that adds the Art Bench as a crafting station for Golems (instead of crafting spot).</description>
     <modDependencies>
         <li>
+            <displayName>Epoch Golems</displayName>
             <packageId>det.epochsgolems</packageId>
             <steamWorkshopUrl>steam://url/CommunityFilePage/3609646528</steamWorkshopUrl>
         </li>
